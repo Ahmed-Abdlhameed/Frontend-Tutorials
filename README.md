@@ -14,6 +14,7 @@ A collection of some front-end applications containing various ideas and concept
 ## HTML & CSS Tutorials
 
 ### Animated Wavy Background
-- **Description**: This app shows a centered card with an image, title, and text. Behind it, a large animated blue background shape waves smoothly, creating a dynamic floating effect.
+- **Description**: This app shows a centered card with a title and a text. Behind it, a large animated blue background shape waves smoothly, creating a dynamic floating effect.
 - **[Application Files](HTML%20%26%20CSS%20Tutorials/Animated%20Wavy%20Background)**
 - **[Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/OPyZXOd)**
+- **[YouTube Link](https://youtu.be/7U2Ai5yUIlI)**
