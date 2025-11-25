@@ -4,7 +4,7 @@ A collection of some front-end applications containing various ideas and concept
 
 ---
 
-## Table of contents
+## Contents Table
 
 1. [HTML & CSS Tutorials](#html--css-tutorials)
    - [Animated Wavy Background](#animated-wavy-background)
