@@ -28,12 +28,12 @@ A collection of some front-end applications containing various ideas and concept
 
 ### Create Tooltip in All Directions
 - **Discription**: This app displays a button that shows a tooltip when you hover over it. The tooltip fades in smoothly and can appear above or below the button depending on the desired direction.
-- **[Application Files](HTML%20%26%20CSS%20Tutorials/Create20%Tooltip20%in20%All20%Directions)**
+- **[Application Files](HTML%20%26%20CSS%20Tutorials/Create%20Tooltip%20in%20All%20Directions)**
 - **[Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/yyOZNQr)**
 - **[YouTube](https://youtu.be/_qWPmT3eSvM)**
 
 ### Create Triangle With Clip Path
 - **Description**: This app demonstrates geometric shapes using CSS clip-path to create circles and triangles. It also includes labeled X and Y axes with styled arrows to visualize positioning inside a container.
-- **[Application Files](HTML%20%26%20CSS%20Tutorials/Create20%Triangle20%With20%Clip20%Path)**
+- **[Application Files](HTML%20%26%20CSS%20Tutorials/Create%20Triangle%20With%20Clip%20Path)**
 - **[Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/MYyLwMN)**
 - **[YouTube](https://youtu.be/2EGK64QeZWk)**
