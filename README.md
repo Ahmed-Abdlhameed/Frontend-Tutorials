@@ -40,16 +40,16 @@ A collection of some frontend applications containing various ideas and concepts
 - **Description**: This app demonstrates geometric shapes using CSS clip-path to create circles and triangles. It also includes labeled X and Y axes with styled arrows to visualize positioning inside a container.
 - **[Application Files](HTML%20%26%20CSS%20Tutorials/Create%20Triangle%20With%20Clip%20Path)**
 - **[Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/MYyLwMN)**
-- **[YouTube](https://youtu.be/2EGK64QeZWk)
+- **[YouTube](https://youtu.be/2EGK64QeZWk)**
 
 ### Customize Scrollbar With CSS
 - **Description**: This app shows a scrollable box with custom scrollbar styling. It also customizes the main page scrollbar with different colors and hover effects.
 - **[Application Files](HTML%20%26%20CSS%20Tutorials/Customize%20Scrollbar%20With%20CSS)**
 - **[Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/OPRyzZg)**
-- **[YouTube](https://youtu.be/3O3iSTSbXWA)
+- **[YouTube](https://youtu.be/3O3iSTSbXWA)**
 
 ### Fill Element Background From Other Element
 - **Description**: This app displays a product card with a number, title, and description and when you hover over it the background expands with color and the text turns white.
 - **[Application Files](HTML%20%26%20CSS%20Tutorials/Fill%20Element%20Background%20From%20Other%20Element)**
 - **[Live Preview](https://codepen.io/Ahmed-Abdelhameed/full/yyaYpxR)**
-- **[YouTube](https://youtu.be/IzFkQNzXE5I)
+- **[YouTube](https://youtu.be/IzFkQNzXE5I)**
